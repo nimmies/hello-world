@@ -1,2 +1,4 @@
 # hello-world
-starter guide stuff
+intro guide stuff
+
+I like clouds.
